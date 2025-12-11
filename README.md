@@ -20,9 +20,13 @@ Demonstrate BA documentation and process understanding
 Deliverables Included
 
 ✔ Business Requirements Document (BRD)
+
 ✔ AS-IS Process Flow
+
 ✔ TO-BE Process Flow
+
 ✔ User Stories & Acceptance Criteria
+
 ✔ Project overview
 
 Tools Used
